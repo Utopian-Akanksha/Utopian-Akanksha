@@ -29,5 +29,5 @@
 
 | GitHub Stats | Tech Stack & Tools |
 |-------------|----------------|
-| ![Akanksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utopian-Akanksha&show_icons=true&theme=dark) | ![Tech Stack](https://skillicons.dev/icons?i=python,sql,tableau,powerbi,excel,github,aws) |
+| ![Akanksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utopian-Akanksha&show_icons=true&theme=dark) | ![Tech Stack](https://skillicons.dev/icons?i=python,mysql,js,html,css,github,aws,tableau,powerbi,excel) |
 
