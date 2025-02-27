@@ -15,10 +15,6 @@
 <h4 align="center">⭐ Always learning, always growing. Let's connect and explore data together! 🚀</h3>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utopian-akanksha&show_icons=true&locale=en" alt="utopian-akanksha" /></p>
-
-/*<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utopian-akanksha&" alt="utopian-akanksha" /></p>*/
-
 ## 📊 GitHub Stats & 🛠 Tech Stack
 
 | GitHub Stats | Tech Stack & Tools |
